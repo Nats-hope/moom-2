@@ -1,0 +1,26 @@
+h1{
+    text-align: center;
+    color: blue;
+    text-decoration: wavy;
+}
+
+body {
+    background-image: url(milk.jpg);
+}
+
+P {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: chocolate;
+}
+h2 {
+    background-color: blue;
+}
+
+ol {
+    color:green;
+}
+
+a {
+   color: rgb(115, 255, 0)
+   list-style-type ; 
+}
